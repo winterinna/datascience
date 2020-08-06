@@ -7,4 +7,12 @@ The FBI and the Centers for Disease Control and Prevention log fatal shootings b
 
 At first step I wanted to to see what it looks like in case of race and age. I also wanted to answer the question, what do the numbers look like in relation to gender and which type of weapon was most preferred. The numbers were shown in relation to states and cities.
 
-After my inquiries in the direction outlined above, I found out the following: three groups of people died most frequently during police operations. These are W: white, B: black, followed by H: Hispanic. The group of the male population has higher numbers for getting shot or shot and tasered. The most prefered weapons, whether men or women, are guns and knives. Unfortunately, people were also shot when they did not have any weapons at all in hand.
+<p>After my inquiries in the direction outlined above, I found out the following: three groups of people died most frequently during police operations.</p> 
+<p>These are</p> 
+<ol>
+  <li>W: white, </li>
+  <li>B: black, followed by </li>
+  <li>H: Hispanic. </li>
+</ol>  
+ 
+<p>The group of the male population has higher numbers for getting shot or shot and tasered. The most prefered weapons, whether men or women, are guns and knives. Unfortunately, people were also shot when they did not have any weapons at all in hand.</p>
