@@ -1,4 +1,4 @@
-<h1>Police Shootings in USA</h1>
+<h1>Police Shootings in USA and Fatal Police Shootings</h1>
 
 <p>There have been numerous discussions recently about deaths in America caused by police operations. For this reason, I became interested in this topic.
 In the real discussions it was about the fact that the colored inhabitants of the USA are often subject to the identity check and are often treated unfairly by the police, sometimes fatal, which happens more often than people with white skin.So I decided to check which image I get from the file according to the numbers.</p>
