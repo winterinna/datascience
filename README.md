@@ -5,7 +5,7 @@
   <li>Collecting Data</li>
   <li>Data Cleaning</li>
   <li>Data Analysing</li>
-  <li>and Data Visualization</li>
+  <li>Data Visualization</li>
   <li>and adverity</li>
 </ul>
 
