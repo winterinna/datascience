@@ -6,7 +6,7 @@
   <li>Data Cleaning</li>
   <li>Data Analysing</li>
   <li>Data Visualization</li>
-  <li>and adverity</li>
+  <li>and adverity coding in python</li>
 </ul>
 
 <p>More to come, especially predictive analysis and machine learning.</p>
