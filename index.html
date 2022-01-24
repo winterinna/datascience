@@ -1,6 +1,30 @@
-<!-- JS file to enable the JavaScript API. You can point at the
-  version on public.tableau.com, online.tableau.com, or your on-prem Server -->
-<script src="https://public.tableau.com/javascripts/api/tableau-2.js"></script>
-...
-<!-- Empty div where the viz will be placed -->
-<div id="tableauViz"></div>
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Basic Embed</title>
+
+    <script type="text/javascript"
+	    src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript">
+        function initViz() {
+            var containerDiv = document.getElementById("vizContainer"),
+                url = "https://public.tableau.com/views/Heatmap_medalspernation/Kreuztabelle",
+                options = {
+                    hideTabs: true,
+                    onFirstInteractive: function () {
+                        console.log("Run this code when the viz has finished loading.");
+                    }
+                };
+
+            var viz = new tableau.Viz(containerDiv, url, options);
+            // Create a viz object and embed it in the container div.
+        }
+    </script>
+</head>
+
+<body onload="initViz();">
+    <div id="vizContainer" style="width:800px; height:700px;"></div>
+</body>
+
+</html>
