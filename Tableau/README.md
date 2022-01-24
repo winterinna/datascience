@@ -7,5 +7,5 @@
 ### Hier finden Sie ein paar statische Bilder meiner Tableau Visualisierungen. Um sich ein besseres Bild zu machen und interaktiv damit zu arbeiten, klicken Sie bitte auf die Bilder und Sie werden auf die entsprechende Tableau Seite weitergeleitet. ###
 
 ## Heatmap - Medaillen je Nation
-[![](/images/heatmap_medals_per_nation.JPG)](https://public.tableau.com/views/Heatmap_medalspernation/Kreuztabelle?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link)
+[![](/images/heatmap_medals_per_nation.png)](https://public.tableau.com/views/Heatmap_medalspernation/Kreuztabelle?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link)
 
