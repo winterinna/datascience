@@ -9,4 +9,4 @@
 [![](./images/heatmap_medals_per_nation.png)](https://public.tableau.com/views/Heatmap_medalspernation/Kreuztabelle?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Wordcloud - Nations and medals
-[![](./images/wordcloud_nations_and_medals.png)](https://public.tableau.com/views/Nations_and_Medals/Wordclouds_2?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link)
+[![](./images/wordcloud_nations_and_medals.PNG)](https://public.tableau.com/views/Nations_and_Medals/Wordclouds_2?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link)
