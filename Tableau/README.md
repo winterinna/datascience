@@ -10,3 +10,6 @@
 
 ## Wordcloud - Nations and medals
 [![](./images/wordcloud_nations_and_medals.PNG)](https://public.tableau.com/views/Nations_and_Medals/Wordclouds_2?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link)
+
+## Treemap - Nations, Games, Disciplines and Events
+[![](./images/treemap_nations_disciplines_events.png)](https://public.tableau.com/views/treemap_16431969199070/Treemap?:language=de-DE&publish=yes&:display_count=n&:origin=viz_share_link)
